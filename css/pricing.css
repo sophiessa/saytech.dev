@@ -111,6 +111,7 @@
     font-size: 1.4em;
     font-weight: 700;
     padding: 12px 8px;
+    float: left;
   }
   
   .table-list li:before {
